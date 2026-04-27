@@ -1,4 +1,4 @@
-# Hey, I'm [Aditya] 👋
+# Hey, I'm Aditya 👋
 
 > *"The best way to predict the future is to build it."*
 
