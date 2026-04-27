@@ -2,7 +2,7 @@
 
 > *"The best way to predict the future is to build it."*
 
-I'm a developer-in-progress with an insatiable drive to understand how things work — and then build better ones. Currently deep in the trenches of **Python**, **Java/C++**, and **Rust**, pushing my limits one commit at a time.
+I'm a developer-in-progress with an insatiable drive to understand how things work and then build better ones. Currently deep in the trenches of **Python**, **Java/C++**, and **Rust**, pushing my limits one commit at a time.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a developer-in-progress with an insatiable drive to understand how things wo
 ---
 
 
-## 📬 Let's Connect
+## Let's Connect
 
 If you're building something interesting, learning something hard, or just want to talk tech — I'm always down.
 
