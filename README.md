@@ -6,11 +6,7 @@ I'm a developer-in-progress with an insatiable drive to understand how things wo
 
 ---
 
-## 🚀 What Drives Me
-
-I didn't get into programming to write CRUD apps. I got into it because code is one of the few places where curiosity has no ceiling. Every language I learn reshapes how I think. Every bug I squash teaches me something new. That loop never gets old.
-
-Right now, I'm focused on:
+## Right now, I'm focused on:
 
 - 🐍 **Python** — scripting, automation, and exploring data & ML pipelines
 - ☕ **Java / C++** — building a rock-solid foundation in systems thinking and OOP
@@ -18,36 +14,6 @@ Right now, I'm focused on:
 
 ---
 
-## 🧭 My Learning Philosophy
-
-I believe the fastest way to grow is to stay permanently uncomfortable. That means:
-
-- Picking up languages and tools that scare me a little
-- Building projects before I feel "ready"
-- Reading source code, not just documentation
-- Embracing failure as the most efficient feedback loop
-
----
-
-## 🌱 Currently Exploring
-
-| Area | What I'm Into |
-|------|--------------|
-| Systems Programming | Rust ownership model, memory layout |
-| Algorithms & DS | Implementing classics from scratch |
-| Low-level C++ | Pointers, RAII, performance optimization |
-| Python Tooling | Building CLI tools and automation scripts |
-
----
-
-## 💡 A Few Things I Believe
-
-- Every expert was once a beginner who refused to quit
-- Clean code is a form of respect — for your future self and others
-- The open-source community is one of humanity's greatest achievements
-- Curiosity compounds, just like interest
-
----
 
 ## 📬 Let's Connect
 
